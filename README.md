@@ -56,8 +56,22 @@ This Unity project simulates a **Mars rover** navigating through a Mars-like ter
 > *(You can record a short demo and upload it as `demo.gif` in a `/media/` folder)*
 ![Demo](media/demo.gif)
 
+---
+
 ## 📁 Project Structure
-<pre> mars-rover-pathfinding-unity/ ├── Assets/ │ ├── Scripts/ │ ├── Scenes/ │ ├── Prefabs/ │ └── Models/ ├── Packages/ ├── ProjectSettings/ ├── .gitignore ├── README.md </pre>
+<pre> mars-rover-pathfinding-unity/
+├── Assets/
+│   ├── Scripts/
+│   ├── Scenes/
+│   ├── Prefabs/
+│   └── Models/
+├── Packages/
+├── ProjectSettings/
+├── .gitignore
+├── README.md
+</pre>
+
+---
 
 ## 🚧 Future Improvements
 
@@ -65,6 +79,8 @@ This Unity project simulates a **Mars rover** navigating through a Mars-like ter
 - More intelligent path re-routing around moving objects
 - Visual performance dashboard
 - Realistic suspension/terrain physics
+
+---
 
 ## 👨‍💻 Author
 
