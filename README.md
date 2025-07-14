@@ -40,3 +40,17 @@ This Unity project simulates a **Mars rover** navigating through a Mars-like ter
 6. Click ▶️ **Play** to run the simulation
 
 ---
+
+## 🧪 How It Works
+
+- Rover starts at a defined **Start** waypoint
+- Moves to a custom **Goal 1**, then the **End**
+- Then returns to **Start**
+- Pathfinding recalculates dynamically if obstacles are detected
+- Raycasting checks front/left/right paths to avoid rocks
+- Time taken and total distance are logged to console
+
+---
+
+## 📈 Example Screenshot / Demo GIF
+> *(You can record a short demo and upload it as `demo.gif` in a `/media/` folder)*
