@@ -60,10 +60,6 @@ This Unity project simulates a **Mars rover** navigating through a Mars-like ter
 ## 📁 Project Structure
 <pre> mars-rover-pathfinding-unity/
 ├── Assets/
-│   ├── Scripts/
-│   ├── Scenes/
-│   ├── Prefabs/
-│   └── Models/
 ├── Packages/
 ├── ProjectSettings/
 ├── .gitignore
