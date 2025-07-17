@@ -53,7 +53,6 @@ This Unity project simulates a **Mars rover** navigating through a Mars-like ter
 ---
 
 ## 📈 Example Screenshot / Demo GIF
-> *(You can record a short demo and upload it as `demo.gif` in a `/media/` folder)*
 ![Demo](media/pathfinding_unity.gif)
 
 ---
